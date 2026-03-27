@@ -30,7 +30,7 @@ class _CurrencyConverterMaterialPageState
         backgroundColor:Color.fromARGB(255, 49, 135, 162),
         elevation: 0,
         title: Text(
-          'Currency Convertor',
+          'Currency Converter',
           style: TextStyle(
             color:Colors.white,
             fontSize: 25,
