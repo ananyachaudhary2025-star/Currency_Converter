@@ -95,7 +95,7 @@ class _CurrencyConverterMaterialPageState
                   style:TextStyle(
                     fontSize: 20,
                   ),
-                  ),
+                ),
               ),
             ),
           ],
